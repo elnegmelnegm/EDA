@@ -5,9 +5,7 @@
 
 Google AI Chat is an AI-powered chat application built with Streamlit and Python. This application allows you to interact with Google AI language generation models, specifically based on the models **gemini-pro** and **gemini-pro-vision**. It is capable of answering questions, describing images, reading text and table files, generating graphs with Graphviz, and much more.
 
-![Google AI Chat](https://seeklogo.com/images/G/google-ai-logo-996E85F6FD-seeklogo.com.png)
 
-[Streamlit App](https://sergiolm-ai.streamlit.app/)
 
 ---
 
@@ -47,13 +45,7 @@ Google AI Chat is an AI-powered chat application built with Streamlit and Python
 
 ---
 
-## Ongoing Development
 
-The app is currently in development, and there are plans to add more features, including:
-
-- **Plotly Graphs:** Generating graphs with Plotly for enhanced data visualization.
-
-- **PDF Reading:** Ability to read PDF files, including images contained within them.
 
 ---
 
