@@ -19,7 +19,8 @@ st.set_page_config(
 #------------------------------------------------------------
 #HEADER
 st.markdown('''
-<img src="https://www.edaegypt.gov.eg/media/wc3lsydo/group-287.png" width="40" height="20">
+<img src="https://www.edaegypt.gov.eg/media/wc3lsydo/group-287.png" width="200" height="100">''', unsafe_allow_html=True)
+st.markdown('''
 Powered by Google AI <img src="https://seeklogo.com/images/G/google-ai-logo-996E85F6FD-seeklogo.com.png" width="20" height="20">
 Streamlit and Python''', unsafe_allow_html=True)
 st.caption("By CADC Techenical Support Team")
