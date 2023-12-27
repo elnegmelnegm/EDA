@@ -11,17 +11,17 @@ import requests
 
 st.set_page_config(
     page_title="ُEDA AI Chat",
-    page_icon="https://drive.google.com/file/d/16yr7nprFY4Sl0IyuYsax_HJPOPm_UAHr/view?usp=sharing",
+    page_icon="https://www.edaegypt.gov.eg/media/wc3lsydo/group-287.png",
     layout="wide",
 )
 # Path: Main.py
-#Author: Sergio Demis Lopez Martinez
+#Author: CADC Techenical Support Team
 #------------------------------------------------------------
 #HEADER
 st.markdown('''
 Powered by Google AI <img src="https://seeklogo.com/images/G/google-ai-logo-996E85F6FD-seeklogo.com.png" width="20" height="20">
-, Streamlit and Python''', unsafe_allow_html=True)
-st.caption("By Sergio Demis Lopez Martinez")
+ Streamlit and Python''', unsafe_allow_html=True)
+st.caption("By CADC Techenical Support Team")
 
 #------------------------------------------------------------
 #LANGUAGE
