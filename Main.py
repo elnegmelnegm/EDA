@@ -10,8 +10,8 @@ import requests
 #Plus que la vie elle-même
 
 st.set_page_config(
-    page_title="Google AI Chat",
-    page_icon="https://seeklogo.com/images/G/google-ai-logo-996E85F6FD-seeklogo.com.png",
+    page_title="ُEDA AI Chat",
+    page_icon="https://drive.google.com/file/d/16yr7nprFY4Sl0IyuYsax_HJPOPm_UAHr/view?usp=sharing",
     layout="wide",
 )
 # Path: Main.py
@@ -28,12 +28,7 @@ st.caption("By Sergio Demis Lopez Martinez")
 langcols = st.columns([0.2,0.8])
 with langcols[0]:
   lang = st.selectbox('Select your language',
-  ('English', 'Español', 'Français', 'Deutsch',
-  'Italiano', 'Português', 'Polski', 'Nederlands',
-  'Русский', '日本語', '한국어', '中文', 'العربية',
-  'हिन्दी', 'Türkçe', 'Tiếng Việt', 'Bahasa Indonesia',
-  'ภาษาไทย', 'Română', 'Ελληνικά', 'Magyar', 'Čeština',
-  'Svenska', 'Norsk', 'Suomi', 'Dansk', 'हिन्दी', 'हिन्�'),index=1)
+  ('English', 'العربية'),index=1)
 
 if 'lang' not in st.session_state:
     st.session_state.lang = lang
