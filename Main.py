@@ -21,8 +21,8 @@ st.set_page_config(
 st.markdown('''
 <img src="https://www.edaegypt.gov.eg/media/wc3lsydo/group-287.png" width="250" height="100">''', unsafe_allow_html=True)
 st.markdown('''
-Powered by Google AI <img src="https://seeklogo.com/images/G/google-ai-logo-996E85F6FD-seeklogo.com.png" width="20" height="20">,
-Streamlit <img src="https://pbs.twimg.com/profile_images/1366779897423810562/kn7ucNPv_400x400.png" width="20" height="20">, and Python <img src="https://png2.cleanpng.com/sh/38d322d41e2d6d5738e129190b8c33a7/L0KzQYq3VsI0N5Ruf5H0aYP2gLBuTgB6fJl0hp9sb33zhcXskr1qa5Dzi595cnBqgrL0jflvb15xedDwdXHqdX7smPVkfaVmRadtMHazcbKAg8c5bpM4RqI9MUS7Q4e4UcU3OWM7TqoANUi0R4W1kP5o/kisspng-python-computer-icons-programming-language-executa-5d0f0aa7c78fb3.0414836115612668558174.png" width="20" height="20">''', unsafe_allow_html=True)
+Powered by Google AI <img src="https://seeklogo.com/images/G/google-ai-logo-996E85F6FD-seeklogo.com.png" width="20" height="20">
+Streamlit <img src="https://pbs.twimg.com/profile_images/1366779897423810562/kn7ucNPv_400x400.png" width="20" height="20"> and Python <img src="https://png2.cleanpng.com/sh/38d322d41e2d6d5738e129190b8c33a7/L0KzQYq3VsI0N5Ruf5H0aYP2gLBuTgB6fJl0hp9sb33zhcXskr1qa5Dzi595cnBqgrL0jflvb15xedDwdXHqdX7smPVkfaVmRadtMHazcbKAg8c5bpM4RqI9MUS7Q4e4UcU3OWM7TqoANUi0R4W1kP5o/kisspng-python-computer-icons-programming-language-executa-5d0f0aa7c78fb3.0414836115612668558174.png" width="22" height="22">''', unsafe_allow_html=True)
 
 
 #------------------------------------------------------------
