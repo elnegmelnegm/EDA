@@ -22,7 +22,7 @@ st.markdown('''
 <img src="https://www.edaegypt.gov.eg/media/wc3lsydo/group-287.png" width="250" height="100">''', unsafe_allow_html=True)
 st.markdown('''
 Powered by Google AI <img src="https://seeklogo.com/images/G/google-ai-logo-996E85F6FD-seeklogo.com.png" width="20" height="20">
-Streamlit and Python''', unsafe_allow_html=True)
+Streamlit <img src="https://pbs.twimg.com/profile_images/1366779897423810562/kn7ucNPv_400x400.png" width="20" height="20"> and Python <img src="https://qwestore.com/images/Download-PNG-Image-The-Python-Logo-PNG-Free-PNG-4914.png" width="20" height="20">''', unsafe_allow_html=True)
 
 
 #------------------------------------------------------------
